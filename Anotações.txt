@@ -1,0 +1,24 @@
+##########################################
+CONCEITO:
+O profissionao de full cycle é um profissional que contém o conhecimento e a capacidade de deployar vários processos de micro serviços, ou seja, desenvolvedores que conhecem o ciclo completo de desenvolvimento de um software desde o projeto a entrega e possuem um senso de der sono daquilo que é produzido.
+A estrutura de desenvolvimento possui 3 pilares:
+	3 pilares:
+		OPERATE WHAT YOU BUILD
+			Operar o que você constroi
+		FERRAMENTAS PARA ESCALAR
+		FULL CYCLE DEVELOPER
+FULL STACK
+	Habilidade de desenvimento, desenvolvedor dominando stack de linguagel
+FULL CYCLE
+	Profissional que além de desenvolver, consegue arquitetar e o projeto até a sua entrega.
+
+"Nem só de CRUD vive o homem"
+
+Sistemas monolíticos
+	Sistemas que possuiem toda a estrutura dentro dele, ou seja tudo que você precisa estã dentro dele.. autenticação.... camada de bando de dados... modulo de produtos....
+	Pontos negativos:
+		Qualquer falha em algum dos módulos, faz com que todo o projeto caia.
+		Se você precisar melhorar o sistema por causa de algum evento como, excesso de carga... você vai precisar duplicar o sistema.
+		17:34
+		
+##########################################
